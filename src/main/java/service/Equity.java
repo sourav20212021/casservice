@@ -17,4 +17,10 @@ public class Equity {
 	public void equity_msg_5(){
 		System.out.println("Equity msg-5");
 	}
+	public void equity_msg_6(){
+		System.out.println("Equity msg-6");
+	}
+	public void equity_msg_7(){
+		System.out.println("Equity msg-7");
+	}
 }
