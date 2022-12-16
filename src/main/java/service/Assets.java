@@ -8,5 +8,8 @@ public class Assets {
 	void asset_2(){
 		System.out.println("Asset-2");
 	}
+	void asset_3(){
+		System.out.println("Asset-3");
+	}
 
 }
