@@ -16,7 +16,7 @@ public class Stocks {
 	public void stock_4(){
 		System.out.println("Stock-4");
 	}
-	public void stock_5(){
-		System.out.println("Stock-5");
+	public void stock_6(){
+		System.out.println("Stock-6");
 	}
 }
