@@ -16,5 +16,9 @@ public class Bonds {
 		System.out.println("Bonds-5");
 
 	}
+	private void bond_msg6(){
+		System.out.println("Bonds-6");
+
+	}
 
 }
