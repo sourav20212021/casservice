@@ -22,5 +22,8 @@ public class Stocks {
 	public void stock_7(){
 		System.out.println("Stock-7");
 	}
+	private void stock_8(){
+		System.out.println("Stock-8");
+	}
 
 }
