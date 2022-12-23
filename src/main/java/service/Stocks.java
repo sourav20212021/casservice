@@ -19,5 +19,8 @@ public class Stocks {
 	public void stock_6(){
 		System.out.println("Stock-6");
 	}
+	public void stock_7(){
+		System.out.println("Stock-7");
+	}
 
 }
