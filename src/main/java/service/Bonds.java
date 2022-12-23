@@ -28,5 +28,9 @@ public class Bonds {
 		System.out.println("Bonds-8");
 
 	}
+	protected void bond_msg9(){
+		System.out.println("Bonds-9");
+
+	}
 
 }
