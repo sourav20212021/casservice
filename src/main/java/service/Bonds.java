@@ -33,10 +33,6 @@ public class Bonds {
 		System.out.println("Bonds-9");
 
 	}
-	protected void bond_msg10(){
-		System.out.println("Bonds-10");
-
-	}
 
 
 }
