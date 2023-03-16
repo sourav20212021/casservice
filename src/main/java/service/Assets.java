@@ -17,5 +17,10 @@ public class Assets {
 		System.out.println("Asset-4");
 
 	}
+	
+	void asset_5(){
+		System.out.println("Asset-5");
+
+	}
 
 }
